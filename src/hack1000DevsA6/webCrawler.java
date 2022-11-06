@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import org.jsoup.Connection;
 
 public class webCrawler {
+	/*gdfgfdfd */
 	
 /* No main ele está indicando qual a url e pedindo para acessar*/
 /* Passa para a função acessar até 2 níveis (link do link) e um array list vazio*/
